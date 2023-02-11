@@ -1,0 +1,182 @@
+
+{"intents":[
+{"tag" : "greeting",
+"patterns" : ["hello",
+            "hey",
+            "hi",
+            "good day",
+            "greetings",
+            "what's up?",
+            "how it is going?"
+            ],
+"responses" : ["Hello!",
+            "Hey!",
+            "What can i do for you?"
+            ]},
+
+{"tag" : "greeting response",
+"patterns" : ["how are you?",
+            "what is your condition?",
+            "how aye ya?",
+            "how do you do?"
+            ],
+"responses" : ["I'm Good.",
+            "Pretty good",
+            "fit as fiddle",
+            "I'm fine. Thank you!"
+            ]},
+
+{"tag" : "age",
+"patterns" : ["How old",
+            "How old is Ammad",
+            "What is your age",
+            "How old are you",
+            "age"
+            ],
+"responses" : ["My owner Ammad is 21 years old",
+            "21 Years!"
+            ]},
+
+{"tag" : "goodbye",
+"patterns" : ["cya",
+            "see you later",
+            "Goodbye",
+            "I am leaving",
+            "Have a good day",
+            "bye",
+            "cao",
+            "see ya"
+            ],
+"responses" : ["Sad to see you go:(",
+            "Talk to you later",
+            "Goodbye!"
+            ]},
+
+{"tag" : "Name",
+"patterns" : ["What is your name",
+            "What should i call you",
+            "What's your name",
+            "Who are you?",
+            "can you tell me you name"
+            ],
+            
+"responses" : ["You can call me Autobot!",
+            "I'm Autobot",
+            "I'm Autobot the assistant of Ammad!"
+            ]},
+
+{"tag" : "Overheating",
+"patterns" : ["overheating",
+            "Thermostate value failure",
+            "Low coolant or even no coolant",
+            "Vehicle cooling system failure",
+            "Damage or faulty radiator",
+            "Cooling fan malfunction",
+            "Kinked, split or parished radiator hoses",
+            "Coolant system leakage",
+            "A faulty or open radiator can also over heat the engine"
+            ],
+"responses" : ["Turn the air conditioning off",
+            "Turn the heater on",
+            "Pull aside and stop the car but not stop the engine",
+            "Call for Help."
+            ]},
+
+{"tag" : "Engine will not start",
+"patterns" : ["Your car has a faulty battery.",
+            "Battery terminals can be corroded or poorly connected.",
+            "Fuel pump failed working or has air bubbles in the injection system.",
+            "Fuel filters are blocked or clogged.",
+            "Fuel injectors are blocked or even just dirty",
+            "The ignition switch is broken or faulty.",
+            "Starter motor malfunction and not getting power.",
+            "Alternator problem or a damage wire in the ignition system."
+            ],
+"responses" : ["Faulty battery.",
+            "Poorly connected or corroded battery terminals.",
+            "Change battery"
+            ]},
+
+{"tag" : "Failed Fuel Pump",
+"patterns" : ["Engine crank revolving but not igniting.",
+            "A sudden increase in fuel consumption and thus the smoke on the tail pipe.",
+            "Sudden decrease in power and pressure.",
+            "Temperature increases or overheating.",
+            "Engine choked while running and not responding at all."
+            ],
+"responses" : ["Fuel pump has issue and you must ask your mechanic or garage to fix the issue or replace the fuel pump."
+            ]},
+
+{"tag" : "Blocked Fuel Filter.",
+"patterns" : ["Engine failing to start.",
+            "The engine is lethargic to start.",
+            "Uncertain power under acceleration.",
+            "Erratic and unbalanced power delivery.",
+            "Engine misfires, cut-outs or even die.",
+            "Engine sounds rough while idling."
+            ],
+"responses" : ["Replace the fuel filters that the manufacturer recommends."
+            ]},
+
+{"tag" : "Dirty Fule injectors.",
+"patterns" : ["Engine misfires.",
+            "Loss of performance and power.",
+            "Engine stammers.",
+            "Engine stops unexpectedly or idles unevenly.",
+            "Fuel consumption goes drastically high.",
+            "Your car fails the emission test on its annual checking."
+            ],
+"responses" : ["Clean the injectors."
+            ]},
+
+{"tag" : "Broken or Faulty ignition switch.",
+"patterns" : ["Car engine stalls or cut-out when you are driving it.",
+            "The vehicle starts but engine dies.",
+            "A number of vehicle accessories will stop working.",
+            "The dashboard lights flickers occasionally when you turn the ignition on.",
+            "Nothing happens upon taking the ignition turn."
+            ],
+"responses" : ["Replace the ignition switch."
+            ]},
+            
+{"tag" : "Broken or Faulty ignition switch.",
+"patterns" : ["Car engine stalls or cut-out when you are driving it.",
+            "The vehicle starts but engine dies.",
+            "A number of vehicle accessories will stop working.",
+            "The dashboard lights flickers occasionally when you turn the ignition on.",
+            "Nothing happens upon taking the ignition turn."
+            ],
+"responses" : ["Replace the ignition switch."
+            ]},
+
+{"tag" : "Defective Starter Motor.",
+"patterns" : ["Upon twisting the ignition keyjust listen to a hard tick but the engine will not turn over.",
+            "Motor sounds like grinder.",
+            "Starter motor engages but unable to turnover.",
+            "The smoke smell comming from the engine compartment when starting the car."
+            ],
+"responses" : ["Starter motors are repairable and can be repaired at low cost."
+            ]},
+
+{"tag" : "Alternator issues",
+"patterns" : ["Flickering and dim lights.",
+            "Weak battery.",
+            "Frequently jump starting the vehicle.",
+            "Battery warning light comes on."
+            ],
+"responses" : ["You can check the voltage at any of your local garages and this diagnostic will also give you an estimated quote for the repair or even replacement of the altornator."
+            ]},
+
+{"tag" : "Engine Smoke.",
+"patterns" : ["Blue engine smoke.",
+            "Gray engine smoke.",
+            "White engine smoke.",
+            "Black engine smoke"
+            ],
+"responses" : ["For Blue Engine Smoke replace worn valves or piston rings.",
+            "For Gray Engine Smoke PCP valve need repairs.",
+            "For White Engine Smoke damaged cylinder head and need repairs.",
+            "For Black Engine Smoke need expert to solve this problem."
+            ]}
+]
+}
