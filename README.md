@@ -33,15 +33,15 @@ python main.py
 
 ## Usage
 
-- ** Launch Vehicle Doctor on your computer.
+- Launch Vehicle Doctor on your computer.
 
-- ** Enter your commands through the text input field or click the voice input button and speak your commands.
+- Enter your commands through the text input field or click the voice input button and speak your commands.
 
-- ** The chat-bot will process your commands and provide diagnostic recommendations for any potential engine problems.
+- The chat-bot will process your commands and provide diagnostic recommendations for any potential engine problems.
 
-- ** Explore the attractive user interface to view detailed diagnostic results and suggested repair actions.
+- Explore the attractive user interface to view detailed diagnostic results and suggested repair actions.
 
-- ** Continue the conversation by entering additional commands or requesting further assistance.
+- Continue the conversation by entering additional commands or requesting further assistance.
 
 ## Contributing
 
