@@ -1,7 +1,5 @@
 # Vehicle Doctor - AI Based Chat-Bot for Vehicle Diagnostics
 
-![Vehicle Doctor Logo](/path/to/logo.png)
-
 ## Introduction
 
 Vehicle Doctor is an artificial intelligence-based chat-bot application developed in Python. It provides advanced vehicle diagnostics capabilities and features an attractive user interface. The application supports commands through both text and voice inputs, making it convenient for users. It can be used as a digital desktop application and leverages advanced Python algorithms for efficient and accurate diagnostics. The chat-bot utilizes AI techniques to detect and diagnose potential engine problems in vehicles.
@@ -35,15 +33,15 @@ python main.py
 
 ## Usage
 
-1. Launch Vehicle Doctor on your computer.
+- ** Launch Vehicle Doctor on your computer.
 
-2. Enter your commands through the text input field or click the voice input button and speak your commands.
+- ** Enter your commands through the text input field or click the voice input button and speak your commands.
 
-3. The chat-bot will process your commands and provide diagnostic recommendations for any potential engine problems.
+- ** The chat-bot will process your commands and provide diagnostic recommendations for any potential engine problems.
 
-4. Explore the attractive user interface to view detailed diagnostic results and suggested repair actions.
+- ** Explore the attractive user interface to view detailed diagnostic results and suggested repair actions.
 
-5. Continue the conversation by entering additional commands or requesting further assistance.
+- ** Continue the conversation by entering additional commands or requesting further assistance.
 
 ## Contributing
 
